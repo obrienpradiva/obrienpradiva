@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @obrienpradiva
+- 👀 I’m interested in Explore new things
+- 🌱 I’m currently learning about Front-End web development
+- 📫 How to reach me? Email me at arnoldobrienpm@gmail.com
