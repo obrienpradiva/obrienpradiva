@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @obrienpradiva
-- 👀 I’m interested in IT stuff
+- 👀 I’m interested in IT stuffs
 - 🌱 I’m currently learning about back-end web development
 - 📫 How to reach me? Email me at arnoldobrienpm@gmail.com
